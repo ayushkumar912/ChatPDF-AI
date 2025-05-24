@@ -1,4 +1,5 @@
 # 🚀 ChatPDF-AI Open Source Edition
+![ChatPDF-AI Screenshot](./test.png)
 
 **Completely local PDF chat application with no external API dependencies!**
 
