@@ -2,10 +2,24 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.venv
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
 # C extensions
 *.so
+
+# macOS
 .DS_Store
+
+# Temporary and test files
+test_*.py
+*_test.py
+temp_*
+*.tmp
 # Distribution / packaging
 .Python
 build/
