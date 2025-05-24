@@ -32,7 +32,7 @@
 ### Option 1: Automated Setup
 ```bash
 # Clone and setup
-git clone <repository-url>
+git clone https://github.com/ayushkumar912/ChatPDF-AI.git
 cd ChatPDF-AI
 
 # Run setup script
